@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
+
+# Data and results
+checkpoints/
+results/
+data/plots/
+data/test_plots/
+
+# OS-specific
+.DS_Store
